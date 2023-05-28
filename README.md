@@ -51,7 +51,7 @@ Let's visualize this;
 
 The histogram shows that the data in both columns is positively skewed. The correlation between domestic gross and foreign gross is 0.768451 which indicates that the two variables have a strong relationship and that they are positively correlated ,that is, increase in domestic gross leads to increase in foreign gross and vice versa. We can visualize this using a scatter plot.
 
-![relationship of foreign and domestic gross](<img width="355" alt="image" src="https://github.com/BetshuaK/Phase_1/assets/116350595/36b81e23-c017-4c8c-a80e-edbd94cd8a80">
+![relationship of foreign and domestic gross](<img width="348" alt="image" src="https://github.com/BetshuaK/Phase-1/assets/116350595/c1053cbf-0b36-4283-a9b5-b548a3a3c1e9">
 )
 
 The correlation between foreign_gross and year is 0.145653 which is a positive correlation, though not strong, implying that as years go by, the foreign gross increases. The correlation between year and domestic gross is 0.122727 ,which is a positive correlation, implying that as years go by the domestic gross increases.
